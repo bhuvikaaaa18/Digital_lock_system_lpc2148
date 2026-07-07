@@ -1,0 +1,78 @@
+# Compiled binaries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+*.elf
+*.hex
+*.bin
+*.asm
+*.out
+
+# Build directories
+build/
+Debug/
+Release/
+obj/
+bin/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Keil uVision files
+*.uvproj
+*.uvprojx
+*.bak
+*.lnp
+*.lst
+*.map
+*.scvd
+
+# IAR Embedded Workbench files
+*.ewp
+*.eww
+*.ewd
+*.ewl
+
+# GCC ARM files
+*.d
+*.su
+
+# OS files
+.DS_Store
+Thumbs.db
+.windows
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Documentation
+doc/html/
+doc/latex/
+
+# Temporary files
+*.tmp
+*.log
+*.dmp
+*.core
+
+# Node modules (if any package.json is used)
+node_modules/
+npm-debug.log
+
+# Misc
+.tags
+.tags_sorted_by_file
+tags
